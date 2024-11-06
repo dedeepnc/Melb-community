@@ -1,0 +1,8 @@
+{
+  "appEnv":"development",
+  "appPrivateKey": "defaultPrivateKey",
+  "db": {
+    "name": "event",
+    "connectionString": "mongodb+srv://dedeepnc:SoZ5RqdTiDgvLA5F@melbournecommunityevent.b8tg1.mongodb.net/"
+  }
+}
